@@ -1,0 +1,8 @@
+oauth2_credentials:
+  client_id: "fcd706b246754e1fad6a70e841b4c942"
+  client_secret: "e524C55cc1B5413292B510e8D3964908"
+  token: YOUR_TOKEN
+  
+service:
+  host: "diy-accounts-api.us-w2.cloudhub.io"
+  port: "80"
